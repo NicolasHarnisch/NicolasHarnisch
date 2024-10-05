@@ -1,5 +1,3 @@
-# Olá, eu sou [Seu Nome] 👋
-
 👨‍💻 Estudante de Engenharia da Computação | Desenvolvedor de Software | Entusiasta de Cibersegurança
 
 ---
