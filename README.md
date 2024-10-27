@@ -1,19 +1,21 @@
 
-# Bem-vindo ao meu GitHub! 👋
-  <div id="badges">
-  <a href = "(https://github.com/NicolasHarnisch)">
+# Hello, world! 👋
 
-#### 👨‍💻 Estudante de Ciência da Computação na UFC e de Engenharia da Computação na UniAteneu
+### 📌 Resumidamente
+
+- **👨‍💻 Estudante de Ciência da Computação na UFC e de Engenharia da Computação na UniAteneu**
 
 ---
 
-## 🌱 Atualmente Aprendendo
+### 🌱 Atualmente Aprendendo
 - **Cibersegurança**: Participando de encontros e eventos sobre segurança da informação.
 - **Desenvolvimento de Software**: Projetos práticos em C++ e JavaScript.
 - **Soft Skills**: Trabalhando para melhorar minha comunicação e superar a timidez em ambientes profissionais.
 - **Robótica**: Explorando a criação de robôs utilizando `ROS` (Robot Operating System) e programação de microcontroladores como `Arduino` e `Raspberry Pi`.
 - **Redes**: Estudando protocolos de rede, administração de redes e como configurar redes seguras para ambientes corporativos e pessoais.
-  
+
+---
+### 🛠️ Atualmente trabalhando com
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
