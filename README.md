@@ -3,7 +3,7 @@
   <div id="badges">
   <a href = "(https://github.com/NicolasHarnisch)">
 
-#### 👨‍💻 Sou Estudante de Engenharia da Computação pela Uniateneu | Desenvolvedor de Software | Entusiasta de Cibersegurança
+#### 👨‍💻 Estudante de Ciência da Computação na UFC e de Engenharia da Computação na UniAteneu
 
 ---
 
