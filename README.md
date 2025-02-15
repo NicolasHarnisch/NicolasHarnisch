@@ -9,7 +9,7 @@
 
 ### 🌱 Atualmente Aprendendo
 - **Cibersegurança**: Participando de encontros e eventos sobre segurança da informação.
-- **Desenvolvimento de Software**: Projetos práticos em C++ e JavaScript.
+- **Desenvolvimento de Software**:  Projetos práticos de diversas linguagens, abordando desde aplicações web até automação e análise de dados.
 - **Soft Skills**: Trabalhando para melhorar minha comunicação e superar a timidez em ambientes profissionais.
 - **Robótica**: Explorando a criação de robôs utilizando `ROS` (Robot Operating System) e programação de microcontroladores como `Arduino` e `Raspberry Pi`.
 - **Redes**: Estudando protocolos de rede, administração de redes e como configurar redes seguras para ambientes corporativos e pessoais.
