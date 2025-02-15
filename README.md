@@ -3,7 +3,7 @@
 
 ### 📌 Resumidamente
 
-- **👨‍💻 Estudante de Ciência da Computação na UFC e de Engenharia da Computação na UniAteneu**
+- **👨‍💻 Estudante de Ciência da Computação na UFC e de Engenharia de Software na UniAteneu**
 
 ---
 
