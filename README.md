@@ -31,4 +31,5 @@
 </div>
 
 ### 🐍 Minhas contribuições
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NicolasHarnisch/NicolasHarnisch/output/github-contribution-grid-snake.svg)
+
