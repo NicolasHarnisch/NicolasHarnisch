@@ -1,19 +1,21 @@
 
 # Hello, world! 👋
 
-### 📌 Resumidamente
-
-- **👨‍💻 Estudante de Ciência da Computação na UFC e de Engenharia de Software na UniAteneu**
+I'm a Computer Science and Software Engineering student from Brazil. I enjoy solving problems and building projects with C, Python, and JavaScript.
 
 ---
 
-### 🌱 Atualmente Aprendendo
-- **Cibersegurança**: Participando de encontros e eventos sobre segurança da informação.
-- **Desenvolvimento de Software**:  Projetos práticos de diversas linguagens, abordando desde aplicações web até automação e análise de dados.
-- **Soft Skills**: Trabalhando para melhorar minha comunicação e superar a timidez em ambientes profissionais.
-- **Robótica**: Explorando a criação de robôs utilizando `ROS` (Robot Operating System) e programação de microcontroladores como `Arduino` e `Raspberry Pi`.
-- **Redes**: Estudando protocolos de rede, administração de redes e como configurar redes seguras para ambientes corporativos e pessoais.
+### 🌱 What I'm Currently Working On
 
+- I'm a member of **Projeto JOGA**, an extension project where I help teach programming by developing educational games.
+- Currently learning more about Software Development and Machine Learning.
+
+---
+
+### 📫 Get in Touch
+
+- **Email:** nicolasgomeshar@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nicolasharnisch
 ---
 ### 🛠️ Atualmente trabalhando com
 <div>
