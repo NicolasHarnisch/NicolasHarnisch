@@ -17,7 +17,7 @@ I'm a Computer Science and Software Engineering student from Brazil. I enjoy sol
 - **Email:** nicolasgomeshar@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/nicolasharnisch
 ---
-### 🛠️ Atualmente trabalhando com
+### 🛠️ Currently working with
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" widt"40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
