@@ -1,31 +1,36 @@
-
 # Hello, world! 👋
 
-I'm a Computer Science and Software Engineering student from Brazil. I enjoy solving problems and building projects with C, Python, and JavaScript.
+I'm **Nícolas Harnisch**, a Computer Science and Software Engineering student in Brazil, passionate about technology, software development, and problem-solving.
+I enjoy learning new tools, working on hands-on projects, and exploring how technology can specifically impact people's lives.
 
 ---
 
 ### 🌱 What I'm Currently Working On
 
-- I'm a member of **Projeto JOGA**, an extension project where I help teach programming by developing educational games.
-- Currently learning more about Software Development and Machine Learning.
-
+- 🎮 I'm a member of **Projeto JOGA**, an extension project where I help teach programming by developing educational games.
+- 🛠️ Developing repositories that document my academic trajectory, programming challenges and personal experiments.
+  
 ---
 
 ### 📫 Get in Touch
 
 - **Email:** nicolasgomeshar@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/nicolasharnisch
----
-### 🛠️ Currently working with
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" widt"40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" widht="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pythonh=" alt="Python" widht="40" height="40"/>&nbsp;
   
+---
+
+### 🖥️ Front-end
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+</div>
+
+### ⚙️ Back-end
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
