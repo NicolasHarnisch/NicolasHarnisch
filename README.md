@@ -8,6 +8,9 @@ I enjoy learning new tools, working on hands-on projects, and exploring how tech
 ### 🌱 What I'm Currently Working On
 
 - 🎮 I'm a member of **Projeto JOGA**, an extension project where I help teach programming by developing educational games.
+
+- 🖥️ I'm a member of **Projeto Nerds** as a volunteer front-end intern, focusing on developing interactive web interfaces with Vue.js and JavaScript. My experience includes version control with Git and collaboration in multidisciplinary teams.
+  
 - 🛠️ Developing repositories that document my academic trajectory, programming challenges and personal experiments.
   
 ---
