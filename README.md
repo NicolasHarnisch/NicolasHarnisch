@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/nicolasharnisch/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5585996883588">
+  <a href="https://api.whatsapp.com/send?phone=5585999973965">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:nicolasgomeshar@alu.ufc.br">
