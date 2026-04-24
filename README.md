@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B5CF6&width=550&center=true&lines=Computer+Science+%26+Software+Engineering;Full+Stack+Developer;Java+%7C+Python+%7C+Node+%7C+React;UFC+%26+UniAteneu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B5CF6&width=550&center=true&lines=Computer+Science+%26+Software+Engineering;Software+Developer+(Java+%7C+Python);UFC+%26+UniAteneu" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +11,7 @@
 ## 👨‍💻 Background
 - 🎓 Pursuing degrees in **Computer Science** (UFC) and **Software Engineering** (UniAteneu).
 - 💻 Focused on **Back-end Architecture**, **APIs**, and Data Pipelines (ETL).
-- 🚀 Instructor & Developer at the JOGA extension project.
+- 🚀 Instructor & Developer at the JOGA extension project (PID).
 - 🔗 Portfolio: [nicolasharnisch.vercel.app](https://nicolasharnisch.vercel.app)
 
 ---
@@ -19,14 +19,15 @@
 ## 🛠️ Tech Stack
 
 ### • Languages
-<div style="display: inline-block; margin-bottom: 15px;">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</div>
+
+<p align="left">
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</p>
 
 ### • Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
